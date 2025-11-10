@@ -1,0 +1,6 @@
+[2025-11-10 09:26:52] ❌ Error inesperado: 'ConexConexion' object has no attribute 'soporte_tecnico'
+[2025-11-10 09:27:34] ❌ Error inesperado: 'ConexConexion' object has no attribute 'soporte_tecnico'
+[2025-11-10 09:45:46] ❌ Error inesperado: 'ConexConexion' object has no attribute 'database'
+[2025-11-10 09:52:55] ❌ Error inesperado: 'ConexConexion' object has no attribute 'soporte_tecnico'
+[2025-11-10 10:18:39] ❌ Error inesperado: 'ConexConexion' object has no attribute 'user'
+[2025-11-10 10:45:21] ❌ Error al ejecutar mysqldump.
